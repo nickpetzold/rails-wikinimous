@@ -1,0 +1,27 @@
+// Place all the styles related to the articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1 {
+  font-size: 30px;
+  color: rgb(42, 55, 201);
+}
+
+p {
+  font-size: 16px;
+  color: rgb(107, 106, 106);
+}
+
+.container {
+  margin-top: 80px;
+  width: 760px;
+}
+
+.title {
+  display: flex;
+}
+
+.container-buttons {
+  margin-top: 0px;
+  width: 760px;
+}
